@@ -1,0 +1,17 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "LiterationSans Nerd Font",
+  "textFontFamily": "D2CodingLigature Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": [
+    "zLearningVault",
+    "zcornell-hacks",
+    "tufte-sidenotes",
+    "theme-default-and-others",
+    "extended-colorschemes",
+    "dashboard",
+    "cornell",
+    "BulletThreading",
+    "custom-rainbow-colors"
+  ]
+}

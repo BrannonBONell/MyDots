@@ -1,0 +1,10 @@
+{
+  "livePreview": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets/Img",
+  "promptDelete": false
+}

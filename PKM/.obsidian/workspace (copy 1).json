@@ -1,0 +1,1460 @@
+{
+  "main": {
+    "id": "3a3b8c3157e366f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc756645d7551afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b0eccb69a7ecbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Distribute-your-services-across-Azure-virtual-networks-and-integrate-them-by-usinging-virtual-network-peering/Connect-services-by-using-virtual-network-peering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Connect-services-by-using-virtual-network-peering"
+            }
+          },
+          {
+            "id": "db114c632247b9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Distribute-your-services-across-Azure-virtual-networks-and-integrate-them-by-usinging-virtual-network-peering/Prepare-Virtual-networks-for-peering-by-using-Azure-CLI-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prepare-Virtual-networks-for-peering-by-using-Azure-CLI-commands"
+            }
+          },
+          {
+            "id": "21bbb6f75ed991aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Distribute-your-services-across-Azure-virtual-networks-and-integrate-them-by-usinging-virtual-network-peering/Configure-virtual-network-peering-connections-using-Azure-CLI-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configure-virtual-network-peering-connections-using-Azure-CLI-commands"
+            }
+          },
+          {
+            "id": "a6fc7e69a0ecc5a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Distribute-your-services-across-Azure-virtual-networks-and-integrate-them-by-usinging-virtual-network-peering/Verify virtual network peering by using SSH between Azure virtual machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verify virtual network peering by using SSH between Azure virtual machines"
+            }
+          },
+          {
+            "id": "158f2c3151523e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Host-Your-domain-on-Azure-DNS/What-Is-Azure-DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-Is-Azure-DNS"
+            }
+          },
+          {
+            "id": "3d5d56d212dbf900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Host-Your-domain-on-Azure-DNS/Configure-Azure-DNS-to-host-your-domain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configure-Azure-DNS-to-host-your-domain"
+            }
+          },
+          {
+            "id": "a6380583464cf47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Host-Your-domain-on-Azure-DNS/Dynamically resolve resource name by using alias record.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamically resolve resource name by using alias record"
+            }
+          },
+          {
+            "id": "ff50e3c9570e97f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Host-Your-domain-on-Azure-DNS/SUmmary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUmmary"
+            }
+          },
+          {
+            "id": "d50b1f4b3eb2101a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Identify routing capabilities of an Azure virtual network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identify routing capabilities of an Azure virtual network"
+            }
+          },
+          {
+            "id": "f4a9633f27692e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Create-custom-routes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create-custom-routes"
+            }
+          },
+          {
+            "id": "a1d71eea0bf4368d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/What-is-an-NVA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-is-an-NVA"
+            }
+          },
+          {
+            "id": "aef16208d806d03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Create-an-NVA-and-VM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create-an-NVA-and-VM"
+            }
+          },
+          {
+            "id": "4c9e517b4479a73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Route-traffic-through-NVA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Route-traffic-through-NVA"
+            }
+          },
+          {
+            "id": "20b99dfc2b014169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Azure-Load-Balancer-features-and-capabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure-Load-Balancer-features-and-capabilities"
+            }
+          },
+          {
+            "id": "f8d16f6aa544298f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Configure-a-public-load-balancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configure-a-public-load-balancer"
+            }
+          },
+          {
+            "id": "d4bcfc5e302e4fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Exercise - Configure a public load balancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise - Configure a public load balancer"
+            }
+          },
+          {
+            "id": "2b05b2b7994b32dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Internal-Load-balancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internal-Load-balancer"
+            }
+          },
+          {
+            "id": "29204f00ec9d2f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Intro-to-Azure-Backup/Introduction-to-Azure-Backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction-to-Azure-Backup"
+            }
+          },
+          {
+            "id": "dbad928d0c6b53c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Intro-to-Azure-Backup/What-is-Azure-Backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-is-Azure-Backup"
+            }
+          },
+          {
+            "id": "0b8a6c1d5e0fd6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Intro-to-Azure-Backup/How-Azure-Backup-Works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How-Azure-Backup-Works"
+            }
+          },
+          {
+            "id": "0f54141310b88b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "12a714678fee17a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Explore-options-to-protect-vm-data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explore-options-to-protect-vm-data"
+            }
+          },
+          {
+            "id": "ff679b238aefc34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Create-VM-snapshots-in-Azure-Backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create-VM-snapshots-in-Azure-Backup"
+            }
+          },
+          {
+            "id": "196c84115fadb754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Set-up-Azure-Recovery-Services-vault-backup-option.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set-up-Azure-Recovery-Services-vault-backup-option"
+            }
+          },
+          {
+            "id": "728f5b58c11c1aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Back-up-your-VMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Back-up-your-VMs"
+            }
+          },
+          {
+            "id": "ac5936ac5b96cedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Restore-your-VMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Restore-your-VMs"
+            }
+          },
+          {
+            "id": "eb470b5f1753a334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Implement-soft-delete-for-your-VMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implement-soft-delete-for-your-VMs"
+            }
+          },
+          {
+            "id": "624425ea135657b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-VM-backups/Implement-soft-delete-for-your-VMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implement-soft-delete-for-your-VMs"
+            }
+          },
+          {
+            "id": "5803aa846d32b23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Azure-Monitor/Describe-Azure-Monitor-key-capabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Describe-Azure-Monitor-key-capabilities"
+            }
+          },
+          {
+            "id": "5133997531e7000b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Azure-Monitor/Azure-Monitor-components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure-Monitor-components"
+            }
+          },
+          {
+            "id": "a0c7d45f97ab9695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Azure-Monitor/Define-metrics-logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Define-metrics-logs"
+            }
+          },
+          {
+            "id": "111be71fe6430e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Azure-Monitor/Identify-monitoring-data-tiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identify-monitoring-data-tiers"
+            }
+          },
+          {
+            "id": "0f4160abb23de245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Azure-Monitor/Describe-activity-log-events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Describe-activity-log-events"
+            }
+          },
+          {
+            "id": "dd3261324d47cccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Azure-Monitor/Describe-activity-log-events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Describe-activity-log-events"
+            }
+          },
+          {
+            "id": "0987d71436c92d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-log-analytics/Detmine-Log-Analytics-use.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detmine-Log-Analytics-use"
+            }
+          },
+          {
+            "id": "806f15dccc521e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-log-analytics/Create-A-Log-Analytics-Workspace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create-A-Log-Analytics-Workspace"
+            }
+          },
+          {
+            "id": "3b83d92e7bee2564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-log-analytics/Create-Kusto-queries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create-Kusto-queries"
+            }
+          },
+          {
+            "id": "f73fc9467dae64a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-log-analytics/Structure-Log-Analytics-queries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure-Log-Analytics-queries"
+            }
+          },
+          {
+            "id": "93abab78d948c131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Network-Watcher/Azure-Network-Watcher-features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure-Network-Watcher-features"
+            }
+          },
+          {
+            "id": "efd425de588b1f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Network-Watcher/Review-next-hop-diagnostics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Review-next-hop-diagnostics"
+            }
+          },
+          {
+            "id": "6b1d92027c7458f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Configure-Network-Watcher/Azure-Network-Watcher-features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure-Network-Watcher-features"
+            }
+          },
+          {
+            "id": "d4c146c8b32c2556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Explore-the-different-alert-types-that-Azure-Monitor-supports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explore-the-different-alert-types-that-Azure-Monitor-supports"
+            }
+          },
+          {
+            "id": "9412bfd27f5e572f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Use-metric-alerts-for-alerts-about-performance-issues-in-your-Azure-environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use-metric-alerts-for-alerts-about-performance-issues-in-your-Azure-environment"
+            }
+          },
+          {
+            "id": "8e9444d22418af70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Exercise-Use-metric-alerts-to-alert-on-performance-issues-in-your-Azure-environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise-Use-metric-alerts-to-alert-on-performance-issues-in-your-Azure-environment"
+            }
+          },
+          {
+            "id": "03ecdd3657c19396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Use-log-search-alerts-to-alert-on-events-in-your-application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use-log-search-alerts-to-alert-on-events-in-your-application"
+            }
+          },
+          {
+            "id": "56eea9052a3079a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Use-activity-log-alerts-to-alert-on-events-within-your-Azure-infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use-activity-log-alerts-to-alert-on-events-within-your-Azure-infrastructure"
+            }
+          },
+          {
+            "id": "21a94ed71a44e7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Use-action-groups-and-alert-processing-rules-to-send-notifications-when-an-alert-is-fired.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use-action-groups-and-alert-processing-rules-to-send-notifications-when-an-alert-is-fired"
+            }
+          },
+          {
+            "id": "3bcc951cfd4ce318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Improve-incident-response-with-Azure-Monitor-alerts/Exercise-Use-an-activity-log-alert-and-an-action-group-to-notify-users-about-events-in-your-Azure-infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise-Use-an-activity-log-alert-and-an-action-group-to-notify-users-about-events-in-your-Azure-infrastructure"
+            }
+          },
+          {
+            "id": "58efcaf899de812d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Analyze-your-Azure-Infrastructure-by-using-Azure-Monitor-logs/Features-of-Azure-Monitor-Logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Features-of-Azure-Monitor-Logs"
+            }
+          },
+          {
+            "id": "06cfbcc02504a9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Analyze-your-Azure-Infrastructure-by-using-Azure-Monitor-logs/Create-basic-Azure-Monitor-log-queries-to-extract-information-from-log-data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create-basic-Azure-Monitor-log-queries-to-extract-information-from-log-data"
+            }
+          },
+          {
+            "id": "b405f3e3c8f2579f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Analyze-your-Azure-Infrastructure-by-using-Azure-Monitor-logs/Exercise - Create basic Azure Monitor log queries to extract information from log data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise - Create basic Azure Monitor log queries to extract information from log data"
+            }
+          },
+          {
+            "id": "91c724a48946d12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Monitor-your-Azure-VMs-with-Azure-Monitor/Monitoring-for-Azure-VMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitoring-for-Azure-VMs"
+            }
+          },
+          {
+            "id": "20244f6936c73fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Monitor-your-Azure-VMs-with-Azure-Monitor/Monitor-VM-host-data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitor-VM-host-data"
+            }
+          },
+          {
+            "id": "ce3dd80996a8b1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Monitor-your-Azure-VMs-with-Azure-Monitor/Use-Metrics-Explorer-to-view-detailed-host-metrics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use-Metrics-Explorer-to-view-detailed-host-metrics"
+            }
+          },
+          {
+            "id": "1796dfa2fe937e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Monitor-your-Azure-VMs-with-Azure-Monitor/Collect-client-performance-counters-by-using-VM-insights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collect-client-performance-counters-by-using-VM-insights"
+            }
+          },
+          {
+            "id": "5f80958c10fca37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Monitor-your-Azure-VMs-with-Azure-Monitor/Collect-VM-client-event-logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collect-VM-client-event-logs"
+            }
+          },
+          {
+            "id": "cbb6a12a3a249588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Discover-DevOps/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "93e5842a7850ce4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Discover-DevOps/What-is-Devops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-is-Devops"
+            }
+          },
+          {
+            "id": "fcccec0612f8f6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Discover-DevOps/Explore-DevOps-Culture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explore-DevOps-Culture"
+            }
+          },
+          {
+            "id": "719e631b77ed15d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Discover-DevOps/Explore-DevOps-Goals-and benefits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explore-DevOps-Goals-and benefits"
+            }
+          },
+          {
+            "id": "4451448d84677f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Plan-With-DevOps/Foster-DevOps-Culture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foster-DevOps-Culture"
+            }
+          },
+          {
+            "id": "3cfa023cd8f6b986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Plan-With-DevOps/What-Is-Agile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-Is-Agile"
+            }
+          },
+          {
+            "id": "65355f3d01902751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "722fab39383b0712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/What-Is-DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-Is-DevOps"
+            }
+          },
+          {
+            "id": "4464050a281883e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/What-Is-DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-Is-DevOps"
+            }
+          },
+          {
+            "id": "86d81f5d1ab71132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Identify-transform-teams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identify-transform-teams"
+            }
+          },
+          {
+            "id": "93d8b66dc4b012db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Define-organization-structure-for-agile-practices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Define-organization-structure-for-agile-practices"
+            }
+          },
+          {
+            "id": "e2670451411986ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Explore-shared-goals-and-define-timelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explore-shared-goals-and-define-timelines"
+            }
+          },
+          {
+            "id": "3c2ed39cc6d90098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Azure-Devops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure-Devops"
+            }
+          },
+          {
+            "id": "ecdf89fbcf26959c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/What-Is-Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-Is-Github"
+            }
+          },
+          {
+            "id": "9a4e028fbe353a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Design-a-license-management-strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design-a-license-management-strategy"
+            }
+          },
+          {
+            "id": "dd44e9fdf7cef7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/What-is-source-control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What-is-source-control"
+            }
+          },
+          {
+            "id": "1f764ba37f93cf9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Describe-working-with-git-locally.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Describe-working-with-git-locally"
+            }
+          },
+          {
+            "id": "68f2941865fed4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Intro-to-Azure-Repos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro-to-Azure-Repos"
+            }
+          },
+          {
+            "id": "b9e2ae0d8924d80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Intro-Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro-Github"
+            }
+          },
+          {
+            "id": "20aaf5e416fef20e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Intro-Github-Projects-and-Project-Boards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro-Github-Projects-and-Project-Boards"
+            }
+          },
+          {
+            "id": "48ac965b543ad889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Intro-to-Azure-Boards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro-to-Azure-Boards"
+            }
+          },
+          {
+            "id": "161f17fe2d4f259e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Configure-projects-and-teams-in-Azure-DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configure-projects-and-teams-in-Azure-DevOps"
+            }
+          },
+          {
+            "id": "8dd5d2064798779a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Link-GitHub-to-Azure-Boards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Link-GitHub-to-Azure-Boards"
+            }
+          },
+          {
+            "id": "59bb144c0be4f159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Configure-GitHub-Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configure-GitHub-Projects"
+            }
+          },
+          {
+            "id": "eed0120992a22782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Manage-work-with-GitHub-Project-Boards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manage-work-with-GitHub-Project-Boards"
+            }
+          },
+          {
+            "id": "846f68d1148a8d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Customizable-GitHub-Project-views.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Customizable-GitHub-Project-views"
+            }
+          },
+          {
+            "id": "35d200357f511f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Collaborate-using-team-discussions-github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collaborate-using-team-discussions-github"
+            }
+          },
+          {
+            "id": "4e6fb546107a04db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Design-and-Implement-a-strategy-for-feedback-cycles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design-and-Implement-a-strategy-for-feedback-cycles"
+            }
+          },
+          {
+            "id": "21cb0b5ead4a7134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Design-and-Implement-source-bug-and-quality-traceability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design-and-Implement-source-bug-and-quality-traceability"
+            }
+          },
+          {
+            "id": "c6471ff9698f1b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Agile-Plan-and-Portfolio-Management-with-Azure-Boards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agile-Plan-and-Portfolio-Management-with-Azure-Boards"
+            }
+          },
+          {
+            "id": "33d860f5cdeb1363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Design-and-implement-branch-strategies-and-workflows/Explore-branch-workflow-types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explore-branch-workflow-types"
+            }
+          },
+          {
+            "id": "990954c19e0beb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Design-and-implement-branch-strategies-and-workflows/Feature-Branch-Workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feature-Branch-Workflow"
+            }
+          },
+          {
+            "id": "7a253cf98406011c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Describe-working-with-git-locally.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Describe-working-with-git-locally"
+            }
+          }
+        ],
+        "currentTab": 88
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64fd3f7345e2a727",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f80dac36b423447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfef3f42369e608c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "daa86a77e7901adc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f28e4baad108e5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 542.5
+  },
+  "right": {
+    "id": "0d063802e947dd39",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5c48a3d987c589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b27191d4be506a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Summary"
+            }
+          },
+          {
+            "id": "15855965dc6f7e05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Summary"
+            }
+          },
+          {
+            "id": "3f305f0d34483350",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ce8af0071afa8a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/Input/Courses/AZ-104/Manage-and-control-traffic-flow-in-your-Azure-deployment-with-routers/Improve-appplication-scalability-and-resiliency-by-using-azure-load-balancer/Summary.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Summary"
+            }
+          },
+          {
+            "id": "39a332df5724b665",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "7a253cf98406011c",
+  "lastOpenFiles": [
+    "Inbox/Input/Courses/AZ-400-DevOps/Design-and-implement-branch-strategies-and-workflows/Explore-Git-Branch-model-for-continuous-delivery.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Design-and-implement-branch-strategies-and-workflows/Feature-Branch-Workflow.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Design-and-implement-branch-strategies-and-workflows/Explore-branch-workflow-types.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Summary.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Design-and-implement-branch-strategies-and-workflows",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Agile-Plan-and-Portfolio-Management-with-Azure-Boards.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Design-and-Implement-source-bug-and-quality-traceability.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Design-and-Implement-a-strategy-for-feedback-cycles.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Collaborate-using-team-discussions-github.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Customizable-GitHub-Project-views.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Manage-work-with-GitHub-Project-Boards.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Configure-GitHub-Projects.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Link-GitHub-to-Azure-Boards.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Configure-projects-and-teams-in-Azure-DevOps.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Intro-to-Azure-Boards.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards/Intro-Github-Projects-and-Project-Boards.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Summary.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Plan-Agile-with-Github-Projects-and-Azure-Boards",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Intro-Github.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Intro-to-Azure-Repos.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Describe-working-with-git-locally.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/What-is-source-control.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Design-a-license-management-strategy.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/What-Is-Github.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Azure-Devops.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Explore-shared-goals-and-define-timelines.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Define-organization-structure-for-agile-practices.md",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops/Identify-transform-teams.md",
+    "Inbox/Input/Courses/DevOps-foundations-The-Core-Principles-and-practices/Plan-With-DevOps",
+    "Inbox/Input/Courses/AZ-400-DevOps/DevOps-foundations-The-Core-Principles-and-practices/Discover-DevOps/Untitled",
+    "Inbox/Input/Courses/DevOps-foundations-The-Core-Principles-and-practices/Discover-DevOps",
+    "Inbox/Input/Courses/DevOps-foundations-The-Core-Principles-and-practices",
+    "Inbox/Input/Courses/AZ-400-DevOps/Introduction-to-Devops",
+    "Inbox/Input/Courses/AZ-400-DevOps",
+    "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Monitor-your-Azure-VMs-with-Azure-Monitor",
+    "Inbox/Input/Courses/AZ-104/Monitor-and-back-up-Azure-Resources/Analyze-your-Azure-Infrastructure-by-using-Azure-Monitor-logs",
+    "Assets/Img/Pasted image 20241018160012.png",
+    "Assets/Img/Pasted image 20241018155235.png",
+    "Assets/Img/Pasted image 20241015005850.png",
+    "Assets/Img/Pasted image 20241015001944.png",
+    "Assets/Img/Pasted image 20241015001933.png",
+    "Assets/Img/Pasted image 20241014235237.png",
+    "Assets/Img/Pasted image 20241014193338.png",
+    "Assets/Img/Pasted image 20241014181813.png",
+    "Assets/Img/Pasted image 20241014130243.png",
+    "Assets/Img/Pasted image 20241014130055.png"
+  ]
+}
