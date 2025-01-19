@@ -77,5 +77,8 @@ alias nvim='nvim'
 alias c='clear'
 
 # Shell integrations
+command -v flux >/dev/null && . <(flux completion zsh)
+# Enable for the current shell:
+# Enable for future environments:
 eval "$(fzf --zsh)"
-eval "$(zoxide init --cmd cd zsh)"
+eval "$(zoxide init zsh)"
